@@ -33,8 +33,8 @@ This repository contains the design, engineering drawing, and manufacturing spec
 *   `/images` - Renders and reference photos.
 
 ## 🚀 Getting Started
-1. Review the `Cellphone Holder - For laser Cutting File.dxf` file for laser cutting or CNC punching. 
-2. Refer to the `Cellphone Holder Specification.pdf` for exact dimensions and the formal bend table:
+1. Review the `drawings/flat_pattern.dxf` file for laser cutting or CNC punching. 
+2. Refer to the `Cellphone_Holder_Specification.pdf` for exact dimensions and the formal bend table:
     *   **Bend A & B:** 90° UP
     *   **Bend C & D:** 120° DOWN
 3. Fabricate the part, ensuring a 3.00 mm inner radius on all bends to match the design intent.
