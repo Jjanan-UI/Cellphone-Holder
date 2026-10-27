@@ -28,7 +28,7 @@ This repository contains the design, engineering drawing, and manufacturing spec
 
 
 ## 📂 Repository Structure
-*   `/cad` - 3D models (SolidWorks/Fusion 360 files) and the flat pattern.
+*   `/cad` - 3D models (SolidWorks files) and the flat pattern.
 *   `/drawings` - The formal PDF specification sheet (including bend table A-D) and DXF files for laser cutting.
 *   `/images` - Renders and reference photos.
 
